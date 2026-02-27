@@ -1,0 +1,22 @@
+{
+  "Data Scientist": {
+    "skills": ["python", "machine learning", "statistics", "sql", "data analysis"],
+    "description": "Analyze complex data sets and build predictive models",
+    "tools": ["python", "r", "tensorflow", "jupyter notebook"],
+    "certifications": ["google data analytics", "aws machine learning"]
+  },
+
+  "Software Engineer": {
+    "skills": ["python", "java", "javascript", "git", "sql", "problem solving"],
+    "description": "Design and develop software applications",
+    "tools": ["visual studio code", "git", "docker", "jenkins"],
+    "certifications": ["aws solutions architect", "oracle java programmer"]
+  },
+
+  "Web Developer": {
+    "skills": ["javascript", "html", "css", "react", "node.js", "sql"],
+    "description": "Build and maintain web applications",
+    "tools": ["react", "node.js", "mongodb", "webpack"],
+    "certifications": ["google associate cloud engineer", "udacity web developer"]
+  }
+}
